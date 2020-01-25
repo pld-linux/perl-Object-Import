@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Object
 %define	pnam	Import
 Summary:	Object::Import - import methods of an object as functions to a package
