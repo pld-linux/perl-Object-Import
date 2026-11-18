@@ -7,13 +7,13 @@
 Summary:	Object::Import - import methods of an object as functions to a package
 Summary(pl.UTF-8):	Object::Import - importuje do pakietu metody obiektowe jako funkcje
 Name:		perl-Object-Import
-Version:	1.004
+Version:	1.006
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	b2beba35458bd6eae6e4079ef662c8eb
+# Source0-md5:	a84a12d63d47fc4686131c28b115b2da
 URL:		http://search.cpan.org/dist/Object-Import/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
